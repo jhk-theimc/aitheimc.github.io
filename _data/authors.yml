@@ -1,0 +1,12 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Jin:
+  name: Jin
+  picture: /images/jin/jin_profile.jpg
+  description: R&M teamleader
+
+Jhk:
+  name: jhk
+  picture: /images/jhk/bio-photo.jpg
+  description: data scientist
