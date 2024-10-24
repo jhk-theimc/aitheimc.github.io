@@ -20,7 +20,7 @@ locale: ko-KR
 title: "theIMC AI"
 description: "<a href='https://theimc.co.kr/web/php/sub/career.php'>Join our team</a>"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://hjjson.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://aitheimc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format:  "%Y-%m-%d"
 read_time: true # reading time estimates, e.g. true
