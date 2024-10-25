@@ -1,6 +1,7 @@
 ### 개요
 
 본 깃허브 블로그는 [so-simple-theme](https://github.com/mmistakes/so-simple-theme) 테마를 활용하여 제작하였습니다.
+더아이엠씨 AI 블로그 접속 주소는 [aitheimc.github.io](aitheimc.github.io)입니다.
 
 ### 깃허브 블로그를 만들기 위해 참고한 사이트
 
