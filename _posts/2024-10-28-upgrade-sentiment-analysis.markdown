@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "감성분석 업그레이드"
+title:  "브랜치 테스트용 입니다."
 date:   2024-10-28 14:40:01 +0900
 author: Jhk
 ---
