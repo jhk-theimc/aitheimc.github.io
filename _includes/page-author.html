@@ -19,6 +19,11 @@
     {%- endif -%}
     {%- if author.description -%}
     <div class="author-name">
+      <span class="p-name">{{ author.position }}</span>
+    </div>
+    {%- endif -%}
+    {%- if author.description -%}
+    <div class="author-name">
       <span class="p-name">{{ author.description }}</span>
     </div>
     {%- endif -%}
