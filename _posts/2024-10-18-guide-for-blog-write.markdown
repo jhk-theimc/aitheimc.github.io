@@ -76,7 +76,9 @@ author: Jin
 Jin: # key value
   name: Jin # 이름 및 별명
   picture: /images/jin/jin_profile.jpg # 프로필 사진
-  description: R&M teamleader # 직무, 직책, 업무 등 자신이 원하는 설명 내용 작성
+  position: R&M teamleader # 직무, 직책, 업무 등 자신이 원하는 설명 내용 작성
+  description: 다양한 산업에 AI 모델을 이식하기 위한 테스트 기획 및 수행을 담당하고 있습니다. # 담당업무에 대한 간략한 설명 (optional)
+
 ```
 
 #### excerpt_separator

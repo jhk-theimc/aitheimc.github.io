@@ -29,9 +29,14 @@ $title-font-family: $nanum-gothic-font-family !default; /* title-font-family 를
 ### 문서 참고 없이 커스텀한 내용
 
 - 커스텀 환경 : author
-`includes / page-author.html` 파일에 아래 코드 추가 하여 description 레이아웃 추가함
+`includes / page-author.html` 파일에 아래 코드 추가 하여 position, description 레이아웃 추가함
 
 ```html
+{%- if author.position -%}
+<div class="author-name">
+    <span class="p-name">{{ author.position }}</span>
+</div>
+{%- endif -%}
 {%- if author.description -%}
 <div class="author-name">
     <span class="p-name">{{ author.description }}**</span>
